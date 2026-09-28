@@ -1,0 +1,16 @@
+{
+  "name": "SMAF Aanwezigheden",
+  "short_name": "SMAF",
+  "description": "Aanwezigheden bijhouden voor de leiding van Scouts Sint-Michiel / Anne Frank.",
+  "lang": "nl-BE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0a2e",
+  "theme_color": "#0b0a2e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
